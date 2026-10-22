@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/bin/Debug/net8.0/003AccessModifiers
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/bin/Debug/net8.0/003AccessModifiers.deps.json
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/bin/Debug/net8.0/003AccessModifiers.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/bin/Debug/net8.0/003AccessModifiers.dll
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/bin/Debug/net8.0/003AccessModifiers.pdb
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.dll
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/refint/003AccessModifiers.dll
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.pdb
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/003AccessModifiers.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/003AccessModifiers/003AccessModifiers/obj/Debug/net8.0/ref/003AccessModifiers.dll
