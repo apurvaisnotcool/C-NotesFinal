@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/bin/Debug/net8.0/004Enums
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/bin/Debug/net8.0/004Enums.deps.json
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/bin/Debug/net8.0/004Enums.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/bin/Debug/net8.0/004Enums.dll
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/bin/Debug/net8.0/004Enums.pdb
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.dll
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/refint/004Enums.dll
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.pdb
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/004Enums.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/004Enums/004Enums/obj/Debug/net8.0/ref/004Enums.dll
