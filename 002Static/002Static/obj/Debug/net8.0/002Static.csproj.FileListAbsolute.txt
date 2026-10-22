@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/bin/Debug/net8.0/002Static
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/bin/Debug/net8.0/002Static.deps.json
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/bin/Debug/net8.0/002Static.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/bin/Debug/net8.0/002Static.dll
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/bin/Debug/net8.0/002Static.pdb
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.dll
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/refint/002Static.dll
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.pdb
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/002Static.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/002Static/002Static/obj/Debug/net8.0/ref/002Static.dll
