@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/bin/Debug/net8.0/013Value_ReferenceType
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/bin/Debug/net8.0/013Value_ReferenceType.deps.json
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/bin/Debug/net8.0/013Value_ReferenceType.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/bin/Debug/net8.0/013Value_ReferenceType.dll
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/bin/Debug/net8.0/013Value_ReferenceType.pdb
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.dll
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/refint/013Value_ReferenceType.dll
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.pdb
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/013Value_ReferenceType.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/013Value_ReferenceType/013Value_ReferenceType/obj/Debug/net8.0/ref/013Value_ReferenceType.dll
