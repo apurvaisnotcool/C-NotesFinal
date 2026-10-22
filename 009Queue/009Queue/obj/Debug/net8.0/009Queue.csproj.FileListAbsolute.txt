@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/bin/Debug/net8.0/009Queue
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/bin/Debug/net8.0/009Queue.deps.json
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/bin/Debug/net8.0/009Queue.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/bin/Debug/net8.0/009Queue.dll
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/bin/Debug/net8.0/009Queue.pdb
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.dll
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/refint/009Queue.dll
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.pdb
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/009Queue.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/009Queue/009Queue/obj/Debug/net8.0/ref/009Queue.dll
