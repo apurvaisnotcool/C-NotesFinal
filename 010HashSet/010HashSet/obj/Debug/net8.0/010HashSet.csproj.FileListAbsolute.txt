@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/bin/Debug/net8.0/010HashSet
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/bin/Debug/net8.0/010HashSet.deps.json
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/bin/Debug/net8.0/010HashSet.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/bin/Debug/net8.0/010HashSet.dll
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/bin/Debug/net8.0/010HashSet.pdb
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.dll
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/refint/010HashSet.dll
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.pdb
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/010HashSet.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/010HashSet/010HashSet/obj/Debug/net8.0/ref/010HashSet.dll
