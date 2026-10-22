@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/bin/Debug/net8.0/007Dictionary
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/bin/Debug/net8.0/007Dictionary.deps.json
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/bin/Debug/net8.0/007Dictionary.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/bin/Debug/net8.0/007Dictionary.dll
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/bin/Debug/net8.0/007Dictionary.pdb
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.dll
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/refint/007Dictionary.dll
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.pdb
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/007Dictionary.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/007Dictionary/007Dictionary/obj/Debug/net8.0/ref/007Dictionary.dll
