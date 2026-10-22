@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/bin/Debug/net8.0/005Properties
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/bin/Debug/net8.0/005Properties.deps.json
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/bin/Debug/net8.0/005Properties.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/bin/Debug/net8.0/005Properties.dll
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/bin/Debug/net8.0/005Properties.pdb
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.dll
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/refint/005Properties.dll
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.pdb
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/005Properties.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/005Properties/005Properties/obj/Debug/net8.0/ref/005Properties.dll
