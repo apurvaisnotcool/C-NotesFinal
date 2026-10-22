@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/bin/Debug/net8.0/012OptionalParameter
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/bin/Debug/net8.0/012OptionalParameter.deps.json
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/bin/Debug/net8.0/012OptionalParameter.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/bin/Debug/net8.0/012OptionalParameter.dll
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/bin/Debug/net8.0/012OptionalParameter.pdb
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.dll
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/refint/012OptionalParameter.dll
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.pdb
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/012OptionalParameter.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/012OptionalParameter/012OptionalParameter/obj/Debug/net8.0/ref/012OptionalParameter.dll
