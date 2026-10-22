@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/bin/Debug/net8.0/008Stack
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/bin/Debug/net8.0/008Stack.deps.json
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/bin/Debug/net8.0/008Stack.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/bin/Debug/net8.0/008Stack.dll
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/bin/Debug/net8.0/008Stack.pdb
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.dll
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/refint/008Stack.dll
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.pdb
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/008Stack.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/008Stack/008Stack/obj/Debug/net8.0/ref/008Stack.dll
