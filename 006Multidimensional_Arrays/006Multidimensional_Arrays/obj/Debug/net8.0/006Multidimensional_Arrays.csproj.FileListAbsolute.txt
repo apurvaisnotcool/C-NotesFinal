@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/bin/Debug/net8.0/006Multidimensional_Arrays
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/bin/Debug/net8.0/006Multidimensional_Arrays.deps.json
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/bin/Debug/net8.0/006Multidimensional_Arrays.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/bin/Debug/net8.0/006Multidimensional_Arrays.dll
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/bin/Debug/net8.0/006Multidimensional_Arrays.pdb
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.dll
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/refint/006Multidimensional_Arrays.dll
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.pdb
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/006Multidimensional_Arrays.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/006Multidimensional_Arrays/006Multidimensional_Arrays/obj/Debug/net8.0/ref/006Multidimensional_Arrays.dll
