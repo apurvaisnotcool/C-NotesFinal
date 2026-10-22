@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/bin/Debug/net8.0/011FunctionParams
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/bin/Debug/net8.0/011FunctionParams.deps.json
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/bin/Debug/net8.0/011FunctionParams.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/bin/Debug/net8.0/011FunctionParams.dll
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/bin/Debug/net8.0/011FunctionParams.pdb
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.dll
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/refint/011FunctionParams.dll
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.pdb
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/011FunctionParams.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/011FunctionParams/011FunctionParams/obj/Debug/net8.0/ref/011FunctionParams.dll
