@@ -1,0 +1,14 @@
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/bin/Debug/net8.0/014Structs
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/bin/Debug/net8.0/014Structs.deps.json
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/bin/Debug/net8.0/014Structs.runtimeconfig.json
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/bin/Debug/net8.0/014Structs.dll
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/bin/Debug/net8.0/014Structs.pdb
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.AssemblyInfoInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.AssemblyInfo.cs
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.csproj.CoreCompileInputs.cache
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.dll
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/refint/014Structs.dll
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.pdb
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/014Structs.genruntimeconfig.cache
+/Users/gamma/C#CodeMonkeyNotes/014Structs/014Structs/obj/Debug/net8.0/ref/014Structs.dll
